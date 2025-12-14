@@ -28,7 +28,7 @@ MAX_RAY_DISTANCE = 15.0
 MUTATION_RATE = 0.15
 
 
-class AIbrain_TymE:
+class v0_1:
     def __init__(self):
         super().__init__()
         self.score = 0
